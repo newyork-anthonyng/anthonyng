@@ -1,0 +1,16 @@
+{
+	"name": "anthonyng",
+	"version": "1.0.0",
+	"description": "Anthony Ng, contact info",
+	"main": "index.js",
+	"scripts": {
+		"postinstall": "node index.js"
+	},
+	"keywords": [
+		"Anthony Ng",
+		"person",
+		"contact"
+	],
+	"author": "Anthony Ng",
+	"license": "ISC"
+}
